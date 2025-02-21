@@ -4,3 +4,6 @@
 
   <p>teach web design</p>
 </div>
+
+<h3>Languages:</h3>
+<img src='https://skillicons.dev/icons?i=html,css,js,php,bootstrap'>
