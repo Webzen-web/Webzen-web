@@ -1,5 +1,4 @@
-<div style='background-image: linear-gradient(red, yellow)';
-'>
+
 <div align='center'>
   <img src='./LOGO.png' alt='My Logo' style='width:250px;' />
   <h1>Webzen</h1>
@@ -9,8 +8,3 @@
 
 <h3>Languages:</h3>
 <img src='https://skillicons.dev/icons?i=html,css,js,php,bootstrap&perline=5'>
-
-
-
-
-</div>
