@@ -6,15 +6,7 @@
   <title>WebZen</title>
   <style>
     body {
-      margin: 0;
-      padding: 0;
       background: linear-gradient(to right, #000000, #00CED1);
-      color: white;
-      font-family: Arial, sans-serif;
-      text-align: center;
-    }
-    h1 {
-      padding-top: 50px;
     }
   </style>
 </head>
