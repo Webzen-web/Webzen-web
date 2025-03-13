@@ -4,11 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>WebZen</title>
-  <style>
-    body {
-      background: linear-gradient(to right, #000000, #00CED1);
-    }
-  </style>
 </head>
 <body>
   <div align='center'>
